@@ -23,32 +23,25 @@ const Footer = () => {
         {/* Social */}
         <div className="flex items-center gap-3">
           <a
-            href="#"
+            href="https://www.linkedin.com/in/umarnurfaozan" target="_blank" rel="noopener noreferrer"
             aria-label="LinkedIn"
             className="hover:text-violet-400 transition"
           >
             <i className="ri-linkedin-fill ri-2x"></i>
           </a>
           <a
-            href="#"
+            href="https://github.com/faozanumar" target="_blank" rel="noopener noreferrer"
             aria-label="GitHub"
             className="hover:text-violet-400 transition"
           >
             <i className="ri-github-fill ri-2x"></i>
           </a>
           <a
-            href="#"
+            href="https://www.instagram.com/faozanumar" target="_blank" rel="noopener noreferrer"
             aria-label="Instagram"
             className="hover:text-violet-400 transition"
           >
             <i className="ri-instagram-fill ri-2x"></i>
-          </a>
-          <a
-            href="#"
-            aria-label="YouTube"
-            className="hover:text-violet-400 transition"
-          >
-            <i className="ri-youtube-fill ri-2x"></i>
           </a>
         </div>
       </div>
