@@ -8,13 +8,13 @@ export default Image;
 
 import Tools1 from "/assets/tools/vscode.png";
 import Tools2 from "/assets/tools/reactjs.png";
-import Tools3 from "/assets/tools/nextjs.png";
+import Tools3 from "/assets/tools/bootstrap.png";
 import Tools4 from "/assets/tools/tailwind.png";
-import Tools5 from "/assets/tools/bootstrap.png";
+import Tools5 from "/assets/tools/php.png";
 import Tools6 from "/assets/tools/js.png";
 import Tools7 from "/assets/tools/nodejs.png";
 import Tools8 from "/assets/tools/github.png";
-import Tools9 from "/assets/tools/ai.png";
+// import Tools9 from "/assets/tools/ai.png";
 import Tools10 from "/assets/tools/canva.png";
 import Tools11 from "/assets/tools/figma.png";
 
@@ -36,7 +36,7 @@ export const listTools = [
   {
     id: 3,
     gambar: Tools3,
-    nama: "Next JS",
+    nama: "Bootstrap",
     ket: "Framework",
     dad: "300",
   },
@@ -50,8 +50,8 @@ export const listTools = [
   {
     id: 5,
     gambar: Tools5,
-    nama: "Bootstrap",
-    ket: "Framework",
+    nama: "PHP",
+    ket: "Language",
     dad: "500",
   },
   {
@@ -75,13 +75,13 @@ export const listTools = [
     ket: "Repository",
     dad: "800",
   },
-  {
-    id: 9,
-    gambar: Tools9,
-    nama: "Adobe Illustrator",
-    ket: "Design App",
-    dad: "900",
-  },
+  // {
+  //   id: 9,
+  //   gambar: Tools9,
+  //   nama: "Adobe Illustrator",
+  //   ket: "Design App",
+  //   dad: "900",
+  // },
   {
     id: 10,
     gambar: Tools10,
