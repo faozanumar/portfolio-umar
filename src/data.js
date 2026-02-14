@@ -10,11 +10,11 @@ import Tools1 from "/assets/tools/vscode.png";
 import Tools2 from "/assets/tools/reactjs.png";
 import Tools3 from "/assets/tools/bootstrap.png";
 import Tools4 from "/assets/tools/tailwind.png";
-import Tools5 from "/assets/tools/php.png";
-import Tools6 from "/assets/tools/js.png";
-import Tools7 from "/assets/tools/nodejs.png";
-import Tools8 from "/assets/tools/github.png";
-// import Tools9 from "/assets/tools/ai.png";
+import Tools5 from "/assets/tools/laravel.png";
+import Tools6 from "/assets/tools/php.png";
+import Tools7 from "/assets/tools/js.png";
+import Tools8 from "/assets/tools/nodejs.png";
+import Tools9 from "/assets/tools/github.png";
 import Tools10 from "/assets/tools/canva.png";
 import Tools11 from "/assets/tools/figma.png";
 
@@ -47,41 +47,41 @@ export const listTools = [
     ket: "Framework",
     dad: "400",
   },
-  {
+    {
     id: 5,
     gambar: Tools5,
-    nama: "PHP",
-    ket: "Language",
+    nama: "Laravel",
+    ket: "Framework",
     dad: "500",
   },
   {
     id: 6,
     gambar: Tools6,
+    nama: "PHP",
+    ket: "Language",
+    dad: "500",
+  },
+  {
+    id: 7,
+    gambar: Tools7,
     nama: "Javascript",
     ket: "Language",
     dad: "600",
   },
   {
-    id: 7,
-    gambar: Tools7,
+    id: 8,
+    gambar: Tools8,
     nama: "Node JS",
     ket: "Javascript Runtime",
     dad: "700",
   },
   {
-    id: 8,
-    gambar: Tools8,
+    id: 9,
+    gambar: Tools9,
     nama: "Github",
     ket: "Repository",
     dad: "800",
   },
-  // {
-  //   id: 9,
-  //   gambar: Tools9,
-  //   nama: "Adobe Illustrator",
-  //   ket: "Design App",
-  //   dad: "900",
-  // },
   {
     id: 10,
     gambar: Tools10,
