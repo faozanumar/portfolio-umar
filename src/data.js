@@ -10,7 +10,7 @@ import Tools1 from "/assets/tools/vscode.png";
 import Tools2 from "/assets/tools/reactjs.png";
 import Tools3 from "/assets/tools/bootstrap.png";
 import Tools4 from "/assets/tools/tailwind.png";
-import Tools5 from "/assets/tools/laravel.png";
+import Tools5 from "/assets/tools/laravel01.png";
 import Tools6 from "/assets/tools/php.png";
 import Tools7 from "/assets/tools/js.png";
 import Tools8 from "/assets/tools/nodejs.png";
