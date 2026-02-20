@@ -125,7 +125,7 @@ export const listProyek = [
   {
     id: 3,
     gambar: Proyek3,
-    nama: "Web Pernikahan 2.0",
+    nama: "Web Pernikahan",
     desk: "Membagikan momen spesial dengan keluarga dan teman.",
     tools: ["Vite", "ReactJS", "TailwindCSS", "AOS"],
     dad: "400",

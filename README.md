@@ -30,7 +30,6 @@ responsif, dan ringan.
 
 ## 📁 Project Structure
 
-```bash
 src/
 ├── components/
 ├── pages/

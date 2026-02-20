@@ -7,12 +7,6 @@ function App() {
       <div className="hero grid grid-cols-1 md:grid-cols-2 items-center gap-10 pt-10">
         {/* ================= LEFT CONTENT ================= */}
         <div className="order-2 md:order-1 animate__animated animate__fadeInUp animate__delay-1s">
-          {/* Quote */}
-          {/* <div className="inline-flex items-center gap-3 mb-6 bg-zinc-800 p-4 rounded-2xl">
-            <q className="text-sm sm:text-base whitespace-nowrap">
-              Kode yang indah, lahir dari ketekunan.
-            </q>
-          </div> */}
 
           {/* Heading */}
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6 leading-tight">
