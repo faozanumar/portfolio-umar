@@ -109,8 +109,8 @@ export const listProyek = [
   {
     id: 1,
     gambar: Proyek1,
-    nama: "Website Sekolah",
-    desk: "Website sekolah memudahkan informasi akademik dan komunikasi orang tua.",
+    nama: "Website Sistem Manajemen Gudang Digital (Digihouse)",
+    desk: "DigiHouse adalah aplikasi untuk mencari, menyewa, dan mengelola ruang gudang secara praktis.",
     tools: ["HTML", "CSS", "Javascript", "AOS"],
     dad: "200",
   },
