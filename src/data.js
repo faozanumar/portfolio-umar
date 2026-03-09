@@ -102,6 +102,12 @@ export const listTools = [
     ket: "Design Our Tools Skills",
     dad: "1200",
   },
+  {
+    id: 13,
+    nama: ".",
+    ket: "Design Our Tools Skills",
+    dad: "1300",
+  },
 ];
 
 import Proyek1 from "/assets/proyek/proyek1.webp";
@@ -117,8 +123,9 @@ export const listProyek = [
     gambar: Proyek1,
     nama: "Website Sistem Manajemen Gudang Digital (Digihouse)",
     desk: "DigiHouse adalah aplikasi untuk mencari, menyewa, dan mengelola ruang gudang secara praktis.",
-    tools: ["HTML", "CSS", "Javascript", "AOS"],
+    tools: ["ReactJS", "TailwindCSS"],
     dad: "200",
+    link: "https://digihouse-jaya.netlify.app/"
   },
   {
     id: 2,
