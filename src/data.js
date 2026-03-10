@@ -8,9 +8,9 @@ export default Image;
 
 import Tools1 from "/assets/tools/vscode.png";
 import Tools2 from "/assets/tools/reactjs.png";
-import Tools3 from "/assets/tools/bootstrap.png";
-import Tools4 from "/assets/tools/tailwind.png";
-import Tools5 from "/assets/tools/laravel01.png";
+import Tools3 from "/assets/tools/laravel01.png";
+import Tools4 from "/assets/tools/bootstrap.png";
+import Tools5 from "/assets/tools/tailwind.png";
 import Tools6 from "/assets/tools/php.png";
 import Tools7 from "/assets/tools/js.png";
 import Tools8 from "/assets/tools/nodejs.png";
@@ -36,21 +36,21 @@ export const listTools = [
   {
     id: 3,
     gambar: Tools3,
-    nama: "Bootstrap",
+    nama: "Laravel",
     ket: "Framework",
     dad: "300",
   },
   {
     id: 4,
     gambar: Tools4,
-    nama: "Tailwind CSS",
+    nama: "Bootstrap",
     ket: "Framework",
     dad: "400",
   },
-    {
+  {
     id: 5,
     gambar: Tools5,
-    nama: "Laravel",
+    nama: "Tailwind CSS",
     ket: "Framework",
     dad: "500",
   },
@@ -59,28 +59,28 @@ export const listTools = [
     gambar: Tools6,
     nama: "PHP",
     ket: "Language",
-    dad: "500",
+    dad: "600",
   },
   {
     id: 7,
     gambar: Tools7,
     nama: "Javascript",
     ket: "Language",
-    dad: "600",
+    dad: "700",
   },
   {
     id: 8,
     gambar: Tools8,
     nama: "Node JS",
     ket: "Javascript Runtime",
-    dad: "700",
+    dad: "800",
   },
   {
     id: 9,
     gambar: Tools9,
     nama: "Github",
     ket: "Repository",
-    dad: "800",
+    dad: "900",
   },
   {
     id: 10,
@@ -101,12 +101,6 @@ export const listTools = [
     nama: ".",
     ket: "Design Our Tools Skills",
     dad: "1200",
-  },
-  {
-    id: 13,
-    nama: ".",
-    ket: "Design Our Tools Skills",
-    dad: "1300",
   },
 ];
 
@@ -130,10 +124,11 @@ export const listProyek = [
   {
     id: 2,
     gambar: Proyek2,
-    nama: "Company Profile",
-    desk: "Membangun citra profesional untuk bisnis Anda.",
-    tools: ["HTML", "CSS", "Javascript", "AOS", "Swiper", "Lightbox Gallery"],
+    nama: "Website Media Edukasi Pengenalan Sayur-Sayuran (Buntil Edu)",
+    desk: "Media pembelajaran interaktif untuk mengenal berbagai jenis sayur-sayuran.",
+    tools: ["HTML", "CSS", "Javascript"],
     dad: "300",
+    link: "https://buntil-edu.vercel.app/"
   },
   {
     id: 3,
