@@ -96,6 +96,12 @@ export const listTools = [
     ket: "Design App",
     dad: "1100",
   },
+  {
+    id: 12,
+    nama: "Tool Lainnya",
+    ket: "Masih banyak tools.",
+    dad: "1200",
+  },
 ];
 
 import Proyek1 from "/assets/proyek/proyek1.webp";
