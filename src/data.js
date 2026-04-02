@@ -131,6 +131,7 @@ export const listProyek = [
     desk: "Membagikan momen spesial dengan keluarga dan teman.",
     tools: ["Vite", "ReactJS", "TailwindCSS", "AOS"],
     dad: "400",
+    link: "https://sites.google.com/ittelkom-pwt.ac.id/aiue-thrift-shop/"
   },
   {
     id: 4,
