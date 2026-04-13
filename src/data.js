@@ -113,7 +113,7 @@ export const listProyek = [
     desk: "DigiHouse adalah aplikasi untuk mencari, menyewa, dan mengelola ruang gudang secara praktis.",
     tools: ["ReactJS", "TailwindCSS"],
     dad: "200",
-    link: "https://digihouse-jaya.netlify.app/"
+    link: "https://digihouse-jaya.netlify.app/",
   },
   {
     id: 2,
@@ -122,16 +122,16 @@ export const listProyek = [
     desk: "Media pembelajaran interaktif untuk mengenal berbagai jenis sayur-sayuran.",
     tools: ["HTML", "CSS", "Javascript"],
     dad: "300",
-    link: "https://buntil-edu.vercel.app/"
+    link: "https://buntil-edu.vercel.app/",
   },
   {
     id: 3,
     gambar: Proyek3,
-    nama: "Web Pernikahan",
-    desk: "Membagikan momen spesial dengan keluarga dan teman.",
-    tools: ["Vite", "ReactJS", "TailwindCSS", "AOS"],
+    nama: "AIUE Thrift Shop",
+    desk: "Website e-commerce thrift, berbagai pilihan pakaian bekas berkualitas.",
+    tools: ["Google Sites"],
     dad: "400",
-    link: "https://sites.google.com/ittelkom-pwt.ac.id/aiue-thrift-shop/"
+    link: "https://sites.google.com/ittelkom-pwt.ac.id/aiue-thrift-shop/",
   },
   {
     id: 4,
