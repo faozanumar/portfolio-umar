@@ -133,14 +133,15 @@ export const listProyek = [
     dad: "400",
     link: "https://sites.google.com/ittelkom-pwt.ac.id/aiue-thrift-shop/",
   },
-  // {
-  //   id: 4,
-  //   gambar: Proyek4,
-  //   nama: "Website Course",
-  //   desk: "Platform pembelajaran online interaktif untuk semua kalangan.",
-  //   tools: ["Vite", "ReactJS", "Bootstrap", "AOS"],
-  //   dad: "500",
-  // },
+  {
+    id: 4,
+    gambar: Proyek4,
+    nama: "Website Elite Fish Nutrition",
+    desk: "Website promosi nutrisi ikan untuk meningkatkan pertumbuhan dan hasil panen.",
+    tools: ["WordPress", "Elementor"],
+    dad: "500",
+    link: "https://elitefishnutrition.page.gd/",
+  },
   // {
   //   id: 5,
   //   gambar: Proyek5,
