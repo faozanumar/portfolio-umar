@@ -24,7 +24,7 @@ function App() {
           {/* CTA */}
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
             <a
-              href="https://docs.google.com/document/d/1aa194pOwAAz77clP1Diy_5LrregZJU7i/edit?usp=sharing&ouid=109893818938046141470&rtpof=true&sd=true"
+              href="https://docs.google.com/document/d/1JKbDw9p2QqHV-9eNPGeGQVFCkx2VKhk9/edit?usp=sharing&ouid=109893818938046141470&rtpof=true&sd=true"
               target="_blank"
               rel="noopener noreferrer"
               className="h-14 min-w-[180px] flex items-center justify-center gap-2 rounded-2xl bg-violet-700 hover:bg-violet-600 text-sm font-medium transition"
