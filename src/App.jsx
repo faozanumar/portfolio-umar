@@ -7,7 +7,6 @@ function App() {
       <div className="hero grid grid-cols-1 md:grid-cols-2 items-center gap-10 pt-10">
         {/* ================= LEFT CONTENT ================= */}
         <div className="order-2 md:order-1 animate__animated animate__fadeInUp animate__delay-1s">
-
           {/* Heading */}
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6 leading-tight">
             Hi, Saya Umar Nur Faozan
@@ -24,7 +23,7 @@ function App() {
           {/* CTA */}
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
             <a
-              href="https://docs.google.com/document/d/1JKbDw9p2QqHV-9eNPGeGQVFCkx2VKhk9/edit?usp=sharing&ouid=109893818938046141470&rtpof=true&sd=true"
+              href="https://docs.google.com/document/d/1IR9ASoXI5iS3lbH_yd6n8dHOEn0y1vS9/edit?usp=sharing&ouid=109893818938046141470&rtpof=true&sd=true"
               target="_blank"
               rel="noopener noreferrer"
               className="h-14 min-w-[180px] flex items-center justify-center gap-2 rounded-2xl bg-violet-700 hover:bg-violet-600 text-sm font-medium transition"
