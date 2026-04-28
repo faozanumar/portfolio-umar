@@ -23,7 +23,7 @@ function App() {
           {/* CTA */}
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
             <a
-              href="https://docs.google.com/document/d/1IR9ASoXI5iS3lbH_yd6n8dHOEn0y1vS9/edit?usp=sharing&ouid=109893818938046141470&rtpof=true&sd=true"
+              href="https://docs.google.com/document/d/1uQZmAcjy9mBs0DnNzr_bUCAh_3UO9wY6/edit?usp=sharing&ouid=109893818938046141470&rtpof=true&sd=true"
               target="_blank"
               rel="noopener noreferrer"
               className="h-14 min-w-[180px] flex items-center justify-center gap-2 rounded-2xl bg-violet-700 hover:bg-violet-600 text-sm font-medium transition"
