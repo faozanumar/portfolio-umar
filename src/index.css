@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+/* Enable class-based dark mode (Tailwind v4 defaults to media-query based) */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: "Poppins", sans-serif;
+    @apply bg-white text-zinc-900 dark:bg-zinc-900 dark:text-white transition-colors duration-300;
+  }
+
+  ::selection {
+    @apply bg-violet-600 text-white;
+  }
+}
+
+/* Smooth color transition when switching theme */
+* {
+  transition-property: background-color, border-color, color, fill, stroke;
+  transition-duration: 300ms;
+}
