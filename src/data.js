@@ -191,23 +191,39 @@ export const listProyek = [
 ];
 
 export const listExperience = [
+
   {
     id: 1,
-    date: { id: "2025 - Sekarang", en: "2025 - Present" },
-    title: { id: "IT Web Developer", en: "IT Web Developer" },
+    date: { id: "2026 - Sekarang", en: "2026 - Present" },
+    title: { id: "Full Stack Web Developer", en: "Full Stack Web Developer" },
     company: "PT. Morich Indo Fashion",
-    type: { id: "Magang", en: "Internship" },
+    type: { id: "Full-time", en: "Full-time" },
     description: {
-      id: "Mengembangkan aplikasi web rekrutmen HR untuk manajemen kandidat, menambahkan fitur baru, serta melakukan pengembangan dan maintenance aplikasi web perusahaan.",
-      en: "Developing an HR recruitment web application for candidate management, adding new features, and performing development and maintenance of the company's web applications.",
+      id: "Mengembangkan dan melakukan maintenance aplikasi web internal perusahaan, termasuk melanjutkan migrasi sistem EXIM dari PHP Native ke Laravel. Mengembangkan fitur baru, memperbaiki bug, mengelola database, serta melakukan pengembangan dan integrasi fitur terkait proses bisnis perusahaan.",
+      en: "Developing and maintaining the company's internal web applications, including continuing the migration of the EXIM system from Native PHP to Laravel. Developing new features, fixing bugs, managing databases, and implementing and integrating features related to the company's business processes.",
     },
-    tech: ["PHP", "JavaScript", "Laravel"],
+    tech: ["PHP", "Laravel", "JavaScript", "MySQL"],
     active: true,
     dad: "200",
   },
 
   {
     id: 2,
+    date: { id: "2025 - 2026", en: "2025 - 2026" },
+    title: { id: "IT Web Developer Intern", en: "IT Web Developer Intern" },
+    company: "PT. Morich Indo Fashion",
+    type: { id: "Magang", en: "Internship" },
+    description: {
+      id: "Mengembangkan aplikasi web rekrutmen HR untuk manajemen kandidat, menambahkan fitur baru, melakukan perbaikan bug, serta membantu pengembangan dan maintenance aplikasi web internal perusahaan.",
+      en: "Developed an HR recruitment web application for candidate management, added new features, fixed bugs, and contributed to the development and maintenance of the company's internal web applications.",
+    },
+    tech: ["PHP", "JavaScript", "Laravel"],
+    active: false,
+    dad: "300",
+  },
+
+  {
+    id: 3,
     date: { id: "2024 - 2024", en: "2024 - 2024" },
     title: { id: "Web Developer Intern", en: "Web Developer Intern" },
     company: "PT Cazh Teknologi Inovasi",
@@ -221,18 +237,4 @@ export const listExperience = [
     dad: "400",
   },
 
-  // {
-  //   id: 3,
-  //   date: { id: "2023 - 2024", en: "2023 - 2024" },
-  //   title: { id: "Mulai Belajar Web Development", en: "Started Learning Web Development" },
-  //   company: "Self Study",
-  //   type: { id: "Belajar Mandiri", en: "Learning" },
-  //   description: {
-  //     id: "Mulai mempelajari dasar-dasar web development dari HTML, CSS, JavaScript hingga framework modern.",
-  //     en: "Started learning the fundamentals of web development from HTML, CSS, JavaScript to modern frameworks.",
-  //   },
-  //   tech: ["HTML", "CSS"],
-  //   active: false,
-  //   dad: "600",
-  // },
 ];
